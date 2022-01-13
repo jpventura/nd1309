@@ -1,12 +1,19 @@
-<h1 align="center">GitHub Project Template</h1>
+<h1 align="center"><a href="https://www.udacity.com/course/nd1309">Blockchain Engineer</a></h1>
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td><img src="https://avatars.githubusercontent.com/u/6250754" alt="ethereum-logo" width="120px" height="120px"/></td>
+  <td><img src="https://raw.githubusercontent.com/ethereum/solidity-portal/master/images/logo.svg" alt="github-logo" width="120px" height="120px"/></td>
+  <td><img src="https://avatars.githubusercontent.com/u/7657900?s=600&v=1" alt="hyperledger-logo" width="120px" height="120px"/></td>
+ </tr>
+</table>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-logo" width="120px" height="120px"/>
-  <br>
-  <i>GitHub template to spawn applications git repositories
-    <br> using programming languages.</i>
-  <br>
-</p>
+ <br>
+ Private network creation, blockchain identity,digital asset security, smart contracts, and decentralized apps.
+
+ </p>
 
 <p align="center">
   <a href="https://www.jpventura.com"><strong>www.jpventura.com</strong></a>
